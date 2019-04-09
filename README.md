@@ -24,13 +24,15 @@ Question Assigned:
                   src/com/bao/<your_roll_no>/<your_class.java>
                   bin/com/bao/<your_roll_no>/<your_class.class>
                   
-* Upload complete code and class file to your pulled repository.
-* Raise a merge request to me and add screenshot of output withit.
+* To do all above Code in Eclipse and commit in your own repository you pulled earlier.
+* Raise a merge request(thru github webpage) to me and add screenshot of output withit.
 * Request should be raised within Lab timing. i.e 
 
               # B4 BAO - 15 April 2019 11:30-13:30Hrs
               # B3 BAO - 16 April 2019 09:30-11:30Hrs
               # B3 OGI - 17 April 2019 09:30-11:30Hrs
+              
+              MAX Allowable time with marks deduction is 1 Hour.
               
 All the Best!!
 
